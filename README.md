@@ -102,11 +102,7 @@ P
 ```
 
 ## OUTPUT:
-
-![rl](https://github.com/user-attachments/assets/ff0c4a24-9bc8-4194-9f93-6dc76d4269d2)
-
-
+![op](./op1.png)
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully: Text Representation, Graphical Representation, Python Representation
-
 
