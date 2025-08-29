@@ -36,7 +36,9 @@ To develop an environment consisting of a mobile tower as the start and the hous
 
 
 ### Graphical Representation
-![op](./rl.jpeg)
+
+![rl](https://github.com/user-attachments/assets/ff6f613e-be81-4cca-96df-c02cbe6e48e7)
+
 
 ## PYTHON REPRESENTATION:
 ```
@@ -102,7 +104,10 @@ P
 ```
 
 ## OUTPUT:
-![op](./op1.png)
+
+<img width="451" height="601" alt="image" src="https://github.com/user-attachments/assets/73eade46-3e78-4bb0-a955-21c73d166eb2" />
+
+
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully: Text Representation, Graphical Representation, Python Representation
 
